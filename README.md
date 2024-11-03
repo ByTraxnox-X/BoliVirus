@@ -1,5 +1,5 @@
 # BoliVirus
-# Comandos para meterle un viruz apk atu victima
+# Comandos para meterle un virus apk a tu victima
 
 # espero y les guste
 # Comandos
